@@ -2,7 +2,9 @@ import javax.swing.JOptionPane;
 
 public class exercicio28 {
     
-    /*Algoritmo que receba 4 notas de um aluno (só serão aceitas notas entre 0 e 10), calcule a média, caso a média seja maior ou igual a 7, o programa deverá apresentar a frase “Aluno aprovado”, caso a média seja inferior a 7, a frase deverá ser “Aluno reprovado”. */
+    /*
+    Algoritmo que receba 4 notas de um aluno (só serão aceitas notas entre 0 e 10), calcule a média, caso a média seja maior ou igual a 7, o programa deverá apresentar a frase “Aluno aprovado”, caso a média seja inferior a 7, a frase deverá ser “Aluno reprovado”. 
+    */
 
     public static void main(String[] args) {
         
